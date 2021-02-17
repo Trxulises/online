@@ -1,4 +1,4 @@
-## TRON DES-COMMERCE
+## TRON TIENDA ONLINE
 
 Nota: para visualizar la demo debes activar el nodo de pruebas de la red de TRON llamado Shasta
 
